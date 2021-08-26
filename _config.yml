@@ -22,7 +22,7 @@ title: Srinidhi's Blog
 email: srinidhim.kattimani@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is about sharing my learning and work on machine learning, deep learning and web component development.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: srinidhim5
 github_username:  srinidhim3
