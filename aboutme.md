@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+Hello! I’m Srinidhi, a passionate Software Engineer based in Bengaluru. With a keen interest in Finance, I love exploring new ideas and sharing my insights with the world. When I’m not at work, you can find me cooking.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Welcome to my blog, where I share my journey, thoughts, and experiences. Let’s connect and grow together!
